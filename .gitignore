@@ -84,8 +84,5 @@ __pycache__/
 # gradle
 .gradle
 
-# view
-/skybow-web/src/skybow-view/node_modules/
-
 # logs
 /logs
