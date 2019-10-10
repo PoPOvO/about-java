@@ -1,4 +1,4 @@
-package memory;
+package jvm;
 
 /**
  * -------------元空间OOM测试--------------
